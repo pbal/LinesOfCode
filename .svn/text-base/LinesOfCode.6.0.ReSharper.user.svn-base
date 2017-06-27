@@ -1,0 +1,132 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Program.cs" caret="392" fromTop="15" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.Designer.cs" caret="3816" fromTop="17" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="3764" fromTop="28" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="3725" fromTop="12" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="3752" fromTop="19" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="3725" fromTop="14" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="8" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="14" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="15" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="6" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="3711" fromTop="28" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="18" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="6" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="26" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1949" fromTop="19" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="2607" fromTop="32" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="2330" fromTop="17" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="2755" fromTop="28" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="33" fromTop="1" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="23" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="19" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="22" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="13" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="18" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="18" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1851" fromTop="18" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="316" fromTop="14" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="548" fromTop="21" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="3776" fromTop="7" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="3506" fromTop="24" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="1342" fromTop="17" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="2286" fromTop="16" />
+      <File id="BD0BE3CE-2FF0-46C5-A976-302014F61B3F/f:Form1.cs" caret="242" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="folderBrowserDialog1" priority="58" />
+      <Item value="var" priority="95" />
+      <Item value="private" priority="31" />
+      <Item value="int" priority="63" />
+      <Item value="string" priority="63" />
+      <Item value="TextRenderer`0" priority="31" />
+      <Item value="new" priority="128" />
+      <Item value="DataSet`0" priority="31" />
+      <Item value="DataSet" priority="28" />
+      <Item value="DataTable`0" priority="31" />
+      <Item value="DataTable" priority="28" />
+      <Item value="dt" priority="127" />
+      <Item value="DataRow`0" priority="63" />
+      <Item value="DataColumn" priority="28" />
+      <Item value="dr" priority="31" />
+      <Item value="dataGridView1" priority="58" />
+      <Item value="foreach" priority="149" />
+      <Item value="FileInfo`0" priority="31" />
+      <Item value="FileInfo" priority="26" />
+      <Item value="in" priority="31" />
+      <Item value="file" priority="31" />
+      <Item value="i" priority="31" />
+      <Item value="return" priority="95" />
+      <Item value="while" priority="31" />
+      <Item value="if" priority="95" />
+      <Item value="theDirs" priority="31" />
+      <Item value="Length" priority="26" />
+      <Item value="theFiles" priority="31" />
+      <Item value="GetAllDirs`0" priority="31" />
+      <Item value="directoryInfo" priority="26" />
+      <Item value="continue" priority="31" />
+      <Item value="switch" priority="31" />
+      <Item value="case" priority="31" />
+      <Item value="default" priority="31" />
+      <Item value="true" priority="31" />
+      <Item value="dataColumn" priority="58" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FolderBrowserDialog">
+      <Item value="ShowDialog`0" priority="26" />
+      <Item value="SelectedPath" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Columns" priority="26" />
+      <Item value="Rows" priority="80" />
+      <Item value="NewRow`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumnCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Add`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="DataSource" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="FullName" priority="26" />
+      <Item value="Name" priority="49" />
+      <Item value="Extension" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="GetDirectories`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToLower`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumn">
+      <Item value="DataType" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
